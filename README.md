@@ -2,20 +2,20 @@
 
 ## Module I: Introduction to DevOps
 
-- [ ] What is SDLC?
-- [ ] What is DevOps?
-- [ ] DevOps Building Blocks and Principles
-- [ ] Need of DevOps
-- [ ] What is Continuous Integration and Continuous Deployment?
-- [ ] Continuous Integration to Continuous Deployment to Continuous Delivery
-- [ ] Continuous Delivery vs Continuous Deployment
-- [ ] General workflow of CI/CD pipeline
-- [ ] Phases of DevOps Pipeline
-- [ ] Code Environment (IDE)
-- [ ] Version Control System (VCS)
-- [ ] Basics of Git VCS
-- [ ] Self Hosted VCS i.e. Gitlab, SCM
-- [ ] Publicly available VCS e.g. GitLab, GitHub, BitBucket
+- [x] What is SDLC?
+- [x] What is DevOps?
+- [x] DevOps Building Blocks and Principles
+- [x] Need of DevOps
+- [x] What is Continuous Integration and Continuous Deployment?
+- [x] Continuous Integration to Continuous Deployment to Continuous Delivery
+- [x] Continuous Delivery vs Continuous Deployment
+- [x] General workflow of CI/CD pipeline
+- [x] Phases of DevOps Pipeline
+- [x] Code Environment (IDE)
+- [x] Version Control System (VCS)
+- [x] Basics of Git VCS
+- [x] Self Hosted VCS i.e. Gitlab, SCM
+- [x] Publicly available VCS e.g. GitLab, GitHub, BitBucket
 - [ ] Building the Project
 - [ ] Manual Build vs Automated Build
 - [ ] Build Systems e.g. Maven, make, Dockerfile, Packer
